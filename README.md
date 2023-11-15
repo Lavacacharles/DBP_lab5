@@ -14,3 +14,5 @@ La aplicación permite buscar en un Json de datos sobre la NBA a los jugadores q
 En el boton verde de 'open camera', habilita la funcionalidad de tomar una foto con el dispositivo que se ejecute la aplicación y se pdorá recortar la foto, posteriormente se muestra esa imagen debajo del boton 'open camera' y se guarda en la nube.
 ## Buscar jugadores
 Debajo del botón anterior, aparece la entrada de texto 'Type your team' donde el usuario escribe el nombre del equipo que desee, y al apretar al boton de abajo 'ask for players' se proyecta una lista de jugadores que pertenecen al equipo del cual su nombre se estableció.
+
+Nota: Profesor por favor revise los comentarios de app-funcional.
